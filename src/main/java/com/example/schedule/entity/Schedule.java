@@ -28,4 +28,8 @@ public class Schedule {
         this.password = dto.getPassword();
         this.updatedDate = dto.getUpdatedDate();
     }
+
+    public void updateToDo(ScheduleRequestDto dto) {
+        this.toDo = dto.getToDo();
+    }
 }
