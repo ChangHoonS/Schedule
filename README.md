@@ -10,4 +10,3 @@
 | 스케쥴 삭제 | DELETE | /schedules/{id} | id_(Long) | X |  | 200: OK |
 | 스케쥴 목록 조회 | GET | /schedules | X | X | {<br> [<br> {<br> "id": 1,<br> "name": "",<br> "do": "",<br> "password": "",<br> "created_date": "",<br> "edited_date": "" <br>},<br> {<br> "id": 1,<br> "name": "",<br> "do": "",<br> "password": "",<br> "created_date": "",<br> "edited_date": "" <br>}<br> ]<br> } | 200: OK |
 
-내용 기입 및 칸 맞추기 및 수정하기
