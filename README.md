@@ -12,3 +12,6 @@
 
 ERD link
 https://www.erdcloud.com/d/66jBbjX5JAxZxk95Q
+
+레이어를 나누어 각자의 일을 하도록 만들었고 필드를 생성 및 데이터를 연동했으나
+온전히 기능을 사용하도록 만들지는 못하였다.
