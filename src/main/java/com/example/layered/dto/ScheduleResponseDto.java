@@ -1,6 +1,6 @@
-package com.example.schedule.dto;
+package com.example.layered.dto;
 
-import com.example.schedule.entity.Schedule;
+import com.example.layered.entity.Schedule;
 import lombok.Getter;
 
 @Getter

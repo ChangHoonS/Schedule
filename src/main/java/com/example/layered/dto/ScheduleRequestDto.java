@@ -1,4 +1,4 @@
-package com.example.schedule.dto;
+package com.example.layered.dto;
 
 import lombok.Getter;
 
