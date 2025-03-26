@@ -2,13 +2,11 @@ package com.example.layered.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
 @AllArgsConstructor
 public class Schedule {
 
-    @Setter
     private Long scheduleId;
     private String writer;
     private String toDo;

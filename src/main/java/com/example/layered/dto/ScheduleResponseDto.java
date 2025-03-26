@@ -1,9 +1,11 @@
 package com.example.layered.dto;
 
 import com.example.layered.entity.Schedule;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 @Getter
+@AllArgsConstructor
 public class ScheduleResponseDto {
 
     private Long scheduleId;
